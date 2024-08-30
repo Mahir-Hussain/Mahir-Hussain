@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Mahir, I'm documenting my projects here 🚀</div>  
+### <div align="center">I'm documenting my projects here 🚀</div>  
   
 
 - 🔭 My last project was a [trading bot](https://github.com/Mahir-Hussain/tradingBot)
