@@ -9,7 +9,7 @@
 - 🔭 My last project was a [trading bot](https://github.com/Mahir-Hussain/tradingBot)
   
 
-- 🌱 My plan is to learn new languages!
+- 🌱 My plan is tto make a weather website
   
 
 <br/>  
