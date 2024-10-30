@@ -6,7 +6,7 @@
 ### <div align="center">I'm documenting my projects here 🚀</div>  
   
 
-- 🔭 My last project was a [trading bot](https://github.com/Mahir-Hussain/tradingBot)
+- 🔭 My last project was a [trading website](https://github.com/Mahir-Hussain/paper-trading)
   
 
 - 🌱 My plan is to make a weather website using javascript
