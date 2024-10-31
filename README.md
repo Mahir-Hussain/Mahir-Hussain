@@ -6,17 +6,8 @@
 ### <div align="center">I'm documenting my projects here 🚀</div>  
   
 
-- 🔭 My last project was a [trading website](https://github.com/Mahir-Hussain/paper-trading)
-  
-
-- 🌱 My plan is to make a weather website using javascript
-  
-
-<br/>  
-  
-
-<br/>  
-
+- 🔭 My current project is a [trading website](https://github.com/Mahir-Hussain/paper-trader)
+- 🌱 I am also collaborating on a weather website
 
 ## Github Stats 
   <div align="center">
